@@ -1,5 +1,5 @@
 {
-  "name": "cglab-webgl-project",
+  "name": "cglab-webgl",
   "version": "1.0.0",
   "description": "Esto es un proyecto para enseñar a usar WebGL 2.0.",
   "main": "server.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jfcarocota/cglab-webgl-project.git"
+    "url": "git+https://github.com/Morapx/Cglab-WebGL.git"
   },
   "keywords": [
     "webgl",
@@ -23,9 +23,9 @@
   "author": "CG Lab",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jfcarocota/cglab-webgl-project/issues"
+    "url": "https://github.com/jfcarocota/Cglab-WebGL/issues"
   },
-  "homepage": "https://github.com/jfcarocota/cglab-webgl-project#readme",
+  "homepage": "https://github.com/jfcarocota/Cglab-WebGL#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
